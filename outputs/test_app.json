@@ -3,8 +3,8 @@
   "channelID": "197",
   "stream_type": "cdn",
   "stream": {
-    "liveStreamUrl": "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/playlist.m3u8",
-    "posterImageUrl": "https://static.vidgyor.com/live/midroll/assets/tv9bharatvarsh.png"
+    "liveStreamUrl": "",
+    "posterImageUrl": ""
   },
   "auth": {
     "url": "",
@@ -17,7 +17,7 @@
     "imaLoadTimeout": 4000,
     "disableAds": false,
     "third_party_preroll": false,
-    "adbreak_video": "https://static.vidgyor.com/live/midroll/assets/blk.mp4",
+    "adbreak_video": "",
     "disableMidroll": false,
     "disablePreroll": false,
     "enableTapToUnMutePlugin": false,
@@ -35,42 +35,42 @@
     "midrollTimerSecs": 5,
     "midrolltimerMessage": "Ad will start soon. Live stream will resume after Ad.",
     "bottomBanner": false,
-    "bottomBannerSlot": "/106213651/TV9Bharatvarsh_Display_468x60",
+    "bottomBannerSlot": "",
     "bottomBannerInterval": 120,
     "bottomBannerTime": 5,
     "midrollErrorBannerFallback": false,
-    "midrollErrorFallbackBannerSlot": "/106213651/TV9Bharatvarsh_Display_300x250",
+    "midrollErrorFallbackBannerSlot": "",
     "prerollErrorFallback": false,
-    "prerollErrorFallbackBannerSlot": "/106213651/TV9Bharatvarsh_Display_300x250",
+    "prerollErrorFallbackBannerSlot": "",
     "enableChromecastPlugin": false,
     "enableSocialPlugin": true,
-    "displayAdPageUrl": "https://tv9hindi.com",
-    "fallbackBannerDefaultImageUrl": "https://static.vidgyor.com/player/static/img/banner.jpg",
+    "displayAdPageUrl": "",
+    "fallbackBannerDefaultImageUrl": "",
     "enableBottomBannerCross": true,
     "bannerOnPause": false
   },
   "ads": {
     "desktop": {
-      "midroll": "https://pubads.g.doubleclick.net/gampad/ads?iu=/106213651/Pilot_Epson_English&description_url=http%3A%2F%2Fvidgyor.com&tfcd=0&npa=0&sz=640x360&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=",
-      "preroll": "https://pubads.g.doubleclick.net/gampad/ads?iu=/106213651/Pilot_Epson_English&description_url=http%3A%2F%2Fvidgyor.com&tfcd=0&npa=0&sz=640x360&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator="
+      "midroll": "",
+      "preroll": ""
     },
     "mobile": {
-      "midroll": "https://pubads.g.doubleclick.net/gampad/ads?iu=/106213651/Pilot_Epson_English&description_url=http%3A%2F%2Fvidgyor.com&tfcd=0&npa=0&sz=640x360&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=",
-      "preroll": "https://pubads.g.doubleclick.net/gampad/ads?iu=/106213651/Pilot_Epson_English&description_url=http%3A%2F%2Fvidgyor.com&tfcd=0&npa=0&sz=640x360&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator="
+      "midroll": "",
+      "preroll": ""
     }
   },
   "youtube": {
     "adblock_fallback": false,
-    "live_stream_url": "https://lb.vidgyor.com/adplex/metadata/197.json",
+    "live_stream_url": "",
     "video_id": "",
-    "thumb_url": "https://static.vidgyor.com/live/midroll/assets/tv9bharatvarsh.png"
+    "thumb_url": ""
   },
   "dailymotion": {
     "live_stream_url": "kBoaGTGvQhWic6vkjLI",
-    "thumb_url": "https://static.vidgyor.com/live/midroll/assets/tv9bharatvarsh.png"
+    "thumb_url": ""
   },
   "googleAnalytics": {
-    "vidgyorTracker": "UA-164560113-3",
+    "vidgyorTracker": "",
     "clientTracker": "",
     "pageViews": true,
     "vidgyorEvents": [
@@ -100,7 +100,7 @@
       "mute"
     ],
     "sendClientEvents": false,
-    "trackerName": "TV9Hindi"
+    "trackerName": ""
   },
   "slideIn": {
     "playerID": "#content_video",
@@ -112,8 +112,8 @@
     "adWidth": 300,
     "adHeight": 600,
     "displayAdSeconds": 15,
-    "adId": "/106213651/TV9Bharatvarsh_Display_300x600",
+    "adId": "",
     "live": true,
-    "fallbackSlideInImage": "https://static.vidgyor.com/player/static/img/slidein.png"
+    "fallbackSlideInImage": ""
   }
 }
